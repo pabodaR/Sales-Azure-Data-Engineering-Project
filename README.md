@@ -27,7 +27,7 @@ This project demonstrates an **end-to-end Azure Data Engineering pipeline** that
 - **Silver** → Cleaned + enriched data (added calculated columns for deeper insights)  
 - **Gold** → Star schema (Fact + Dim tables for reporting and BI consumption)  
 
-📍 *[Insert Medallion Architecture Diagram Here]*
+![Medallion Architecture](https://github.com/pabodaR/Sales-Azure-Data-Engineering-Project/blob/main/Medallion.jpg?raw=true)
 
 ---
 
@@ -55,7 +55,7 @@ This project provides:
 - Fact table: `FactSales`  
 - Dimensions: `DimDate`, `DimBranch`, `DimDealer`, `DimModel`  
 
-📍 *[Insert Sample Schema Diagram Here]*
+📍 *[Schema Diagram]*
 
 ---
 
