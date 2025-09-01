@@ -17,7 +17,7 @@ This project demonstrates an **end-to-end Azure Data Engineering pipeline** that
 ## 🛠️ Architecture
 
 **High-level pipeline flow**  
-📍 *[Insert Architecture Diagram Here]*
+  ![Project Architecture](https://github.com/pabodaR/Sales-Azure-Data-Engineering-Project/blob/main/architecture.jpg?raw=true)
 
 ---
 
