@@ -56,7 +56,8 @@ This project provides:
 - Fact table: `FactSales`  
 - Dimensions: `DimDate`, `DimBranch`, `DimDealer`, `DimModel`  
 
-📍 *[Schema Diagram]*
+![Star Schema](https://github.com/pabodaR/Sales-Azure-Data-Engineering-Project/blob/main/Star.jpg?raw=true)
+
 
 ---
 
