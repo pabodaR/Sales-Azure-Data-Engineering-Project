@@ -51,7 +51,7 @@ This project provides:
 
 ---
 
-## Example Outputs
+## Star Schema
 
 - Fact table: `FactSales`  
 - Dimensions: `DimDate`, `DimBranch`, `DimDealer`, `DimModel`  
